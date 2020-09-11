@@ -2,10 +2,10 @@ Package: tidycenso
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Rik",
+           family = "Ferreira",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "rikferreiraalves@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
